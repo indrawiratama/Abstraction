@@ -11,6 +11,7 @@ namespace Abstraction
     {
         static void Main(string[] args)
         {
+            
             Kendaraan kendaraan;          
             kendaraan = new Mobil();
             kendaraan.Jenis();
